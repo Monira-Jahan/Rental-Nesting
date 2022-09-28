@@ -1,1 +1,1 @@
-# accommodation
+# Rental nesting  has 3 users which are Admin, Renter and House Owner. Here Admin manages the whole system, Renter can search their according to their location, budget and location. Owner can post their rental advertisement with their all house details for finding a trustable renter through this system. 
